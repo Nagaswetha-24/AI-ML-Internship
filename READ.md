@@ -4,7 +4,7 @@ This repository contains my tasks, projects, and learning outcomes completed dur
 
 ## Internship Track
 
-AI & Machine Learning
+Artificial Intelligence & Machine Learning
 
 ## Technologies
 
