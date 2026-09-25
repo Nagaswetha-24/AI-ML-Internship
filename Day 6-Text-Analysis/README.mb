@@ -1,0 +1,43 @@
+# Text Analysis
+
+## Day 6 - AI & ML Internship Task
+
+This project analyzes a given text using Python.
+
+## Objective
+
+To create a Python program that:
+
+- Counts the number of words
+- Counts the number of characters
+- Counts vowels
+- Identifies repeated words
+
+## Text Used
+
+Python is a powerful programming language. Python is easy to learn and Python is widely used in AI and Machine Learning.
+
+## Analysis Performed
+
+- Word count
+- Character count
+- Vowel count
+- Repeated word detection
+
+## Concepts Used
+
+- Python Strings
+- String `split()` method
+- `len()` function
+- For Loop
+- If Statement
+- `Counter` from the collections module
+
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+
+## Conclusion
+
+The Text Analysis program successfully analyzes text and provides basic information such as word count, character count, vowel count, and repeated words.
